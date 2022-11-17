@@ -6,7 +6,7 @@ author:
 
 url: ""
 
-source: docs
+source: 
 destination: .tmp
 include:
 - _redirects
