@@ -1,0 +1,27 @@
+---
+layout: base
+markdown: 0
+---
+<div id="content">
+  <h2 class="page-title">
+    <span class="container">{{ page.title }}</span>
+  </h2>
+
+  <div class="container clearfix{% if page.sidebar %} has-sidebar{% endif %}">
+
+    <article class="main">
+      {% if page.social_text %}
+        {% include social.html %}
+      {% endif %}
+
+      <section class="content-chunk">
+        {% if page.markdown == 1 %}
+          {{ content | markdownify }}
+        {% else %}
+          {{ content }}
+        {% endif %}
+
+      </section>
+    </article>
+  </div>
+</div>

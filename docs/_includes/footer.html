@@ -1,0 +1,31 @@
+<footer class="SiteFooter">
+  
+    <h1 class="Logo">
+        <a href="/">
+          <img 
+          src="/assets/img/logo_modellierungsnetzwerk.png" 
+          alt="Modellierungsnetzwerk">
+        </a>
+    </h1>
+
+  <div class="SiteFooter-language">
+    <div class="language-text">
+      <em>{{ site.data.translations['language'][page.lang] }}</em>
+    </div>
+    {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    <div class="language-text">
+      {% for post in posts %}
+        <li>
+          <a href="{{ site.base-url }}{{ post.url }}" 
+          class="{{ post.lang }}" 
+          title="View in {{post.lang}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a>
+        </li>
+      {% endfor %}
+    </div>
+
+    <div class="language-text">
+      {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+    </div>
+  </div>
+
+</footer>

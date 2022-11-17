@@ -1,0 +1,20 @@
+
+name: INSIDe.io
+description: INSIDe project website
+author:
+  name: INSIDe project partners
+
+url: ""
+
+source: docs
+destination: .tmp
+include:
+- _redirects
+
+# _config.build.yml sets future and show_drafts to false on `grunt build`
+future: true
+show_drafts: true
+
+plugins:
+- jekyll-paginate
+- jekyll-redirect-from
