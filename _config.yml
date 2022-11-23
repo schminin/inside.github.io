@@ -4,8 +4,8 @@ description: INSIDe project website
 author:
   name: INSIDe project partners
 
-baseurl: ""
-url: "https://schminin.github.io/inside.github.io/docs/en"
+baseurl: "/inside.github.io"
+#url: "https://schminin.github.io/inside.github.io/docs/en"
 
 destination: .tmp
 include:
