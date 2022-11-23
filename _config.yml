@@ -5,7 +5,7 @@ author:
   name: INSIDe project partners
 
 baseurl: ""
-url: ""
+url: "https://schminin.github.io/inside.github.io/docs/en"
 
 destination: .tmp
 include:
