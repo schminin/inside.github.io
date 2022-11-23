@@ -4,7 +4,7 @@ description: INSIDe project website
 author:
   name: INSIDe project partners
 
-baseurl: "/inside.github.io"
+baseurl: ""
 url: ""
 
 destination: .tmp
