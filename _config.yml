@@ -4,15 +4,15 @@ description: INSIDe project website
 author:
   name: INSIDe project partners
 
-baseurl: "inside"
+baseurl: "/inside"
 url: "https://schminin.github.io"
 
 destination: .tmp
 include:
 - _redirects
 
-languages: ["en", "de"]
-defaultLang: en
+#languages: ["en", "de"]
+#defaultLang: en
 
 # _config.build.yml sets future and show_drafts to false on `grunt build`
 future: true

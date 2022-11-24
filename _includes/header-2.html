@@ -1,0 +1,58 @@
+{% if page.lang == 'en' %}
+{% capture subprojects_en %}{% include sidebars/subprojects_en.md %}{% endcapture %}
+{% else %}
+{% capture subprojects_de %}{% include sidebars/subprojects_de.md %}{% endcapture %}
+{% endif %}
+
+<header class="page-header">
+  <div class="container">
+    <div class="mobile-bar">
+      <h1 class="logo">
+        <a href="/">
+          <img 
+          src="/assets/img/inside_logo.png" 
+          alt="INSIDe"></a>
+      </h1>
+    </div>
+    <nav class="main-menu">
+      <ul class="main-nav">
+        {% if page.lang == 'en' %}
+          <li>
+            {% link /en/index/ Home %}
+          </li>
+          <li>
+            {% link /en/news/ News %}
+          </li>
+          <li>
+            {% link /en/subprojects/ Subprojects%}
+            {{ subprojects_en | markdownify }}
+          </li>
+          <li>
+            {% link /en/contact/ Contact %}
+          </li>
+          <li>
+            {% link /en/funding/ Funding %}
+          </li>
+        {% else %}
+          <li>
+            {% link /de/index/ Home %}
+          </li>
+          <li>
+            {% link /de/news/ Aktuelles %}
+          </li>
+          <li>
+            {% link /de/subprojects/ Arbeitspakete%}
+            {{ subprojects_de | markdownify }}
+          </li>
+          <li>
+            {% link /de/contact/ Kontakt %}
+          </li>
+          <li>
+            {% link /de/funding/ Finanzierung %}
+          </li>
+        {% endif %}
+        
+      </ul>
+    </nav>
+  </div><!-- /.container -->
+</header><!-- /.page-header -->
