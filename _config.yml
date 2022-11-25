@@ -1,11 +1,11 @@
 
 name: INSIDe.io
-description: INSIDe project website
+description: ...
 author:
-  name: INSIDe project partners
+  name: ...
 
 baseurl: "/inside"
-url: "https://schminin.github.io"
+url: "https://tiepcreator.github.io"
 
 destination: .tmp
 include:

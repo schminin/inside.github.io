@@ -8,8 +8,11 @@ lang: de
 lang-ref: starting-page
 ---
 
+
 ## INSIDe - INtegrative Modellierung der Ausbreitung von schweren Infektionskrankheiten
 (INtegrative modeling of the spread of Serious Infectious Diseases)
+
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Viren.jpg)
 
 ### Projektziel: 
 Entwicklung einer Softwareplattform als Frühwarnsystem für Infektionsausbrüche von im Abwasser nachweisbarer Krankheitserreger und für die Simulation der Krankheitsausbreitung unter verschiedenen Bedingungen.

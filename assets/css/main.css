@@ -1445,3 +1445,5 @@ Inlined to avoid required HTTP connection: h5bp.com/r
   }
 }
 
+
+img[alt=title_image] { height: 300px; }

@@ -7,48 +7,58 @@
 <header class="page-header">
   <div class="container">
     <div class="mobile-bar">
+      {% if page.lang == 'en' %}
       <h1 class="logo">
-        <a href="/">
+        <a href="{{ site.url }}{{ site.baseurl }}">
           <img 
-          src="/assets/img/inside_logo.png" 
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/inside_logo.png" 
           alt="INSIDe"></a>
       </h1>
+      {% else %}
+      <h1 class="logo">
+        <a href="{{ site.url }}{{ site.baseurl }}/de">
+          <img 
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/inside_logo.png" 
+          alt="INSIDe"></a>
+      </h1>      
+      {% endif %}
     </div>
     <nav class="main-menu">
       <ul class="main-nav">
         {% if page.lang == 'en' %}
           <li>
-            {% link /en/index/ Home %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link en/index.md %}">Home</a>
           </li>
           <li>
-            {% link /en/news/ News %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link en/news/index.md %}">News</a>
           </li>
           <li>
-            {% link /en/subprojects/ Subprojects%}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link en/subprojects/index.md %}">Subprojects</a>
             {{ subprojects_en | markdownify }}
           </li>
           <li>
-            {% link /en/contact/ Contact %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link en/contact/index.md %}">Contact</a>
           </li>
           <li>
-            {% link /en/funding/ Funding %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link en/funding/index.md %}">Funding</a>
           </li>
         {% else %}
           <li>
-            {% link /de/index/ Home %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link de/index.md %}">Home</a>
+
           </li>
           <li>
-            {% link /de/news/ Aktuelles %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link de/news/index.md %}">Aktuelles</a>
           </li>
           <li>
-            {% link /de/subprojects/ Arbeitspakete%}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link de/subprojects/index.md %}">Arbeitspakete</a>
             {{ subprojects_de | markdownify }}
           </li>
           <li>
-            {% link /de/contact/ Kontakt %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link de/contact/index.md %}">Kontakt</a>
           </li>
           <li>
-            {% link /de/funding/ Finanzierung %}
+            <a href="{{ site.url }}{{ site.baseurl }}{% link de/funding/index.md %}">Finanzierung</a>
           </li>
         {% endif %}
         

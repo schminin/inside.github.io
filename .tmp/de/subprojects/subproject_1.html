@@ -13,10 +13,10 @@
   <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700%7CRoboto:400,700,700italic,400italic" rel="stylesheet" type="text/css">
 
   
-    <link href="/assets/css/normalize.css" rel="stylesheet">
-    <link href="/assets/css/main.css" rel="stylesheet">
-    <link href="/assets/css/footer.css" rel="stylesheet">
-    <link href="/assets/css/prettify.css" rel="stylesheet">
+    <link href="http://localhost:4000/assets/css/normalize.css" rel="stylesheet">
+    <link href="http://localhost:4000/assets/css/main.css" rel="stylesheet">
+    <link href="http://localhost:4000/assets/css/footer.css" rel="stylesheet">
+    <link href="http://localhost:4000/assets/css/prettify.css" rel="stylesheet">
   
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
@@ -31,38 +31,41 @@
 <header class="page-header">
   <div class="container">
     <div class="mobile-bar">
+      
       <h1 class="logo">
-        <a href="/">
+        <a href="http://localhost:4000/de">
           <img 
-          src="/assets/img/inside_logo.png" 
+          src="http://localhost:4000/assets/img/inside_logo.png" 
           alt="INSIDe"></a>
-      </h1>
+      </h1>      
+      
     </div>
     <nav class="main-menu">
       <ul class="main-nav">
         
           <li>
-            <a href="/de/index/" >Home</a>
+            <a href="http://localhost:4000<a href="de/index.md" ></a>">Home</a>
+
           </li>
           <li>
-            <a href="/de/news/" >Aktuelles</a>
+            <a href="http://localhost:4000<a href="de/news/index.md" ></a>">Aktuelles</a>
           </li>
           <li>
-            <a href="/de/subprojects/" class="active">Arbeitspakete</a>
+            <a href="http://localhost:4000<a href="de/subprojects/index.md" ></a>">Arbeitspakete</a>
             <ul>
-  <li><a href="/de/subprojects/subproject_1.html" class="active">Arbeitspaket 1</a></li>
-  <li><a href="/de/subprojects/subproject_2.html">Arbeitspaket 2</a></li>
-  <li><a href="/de/subprojects/subproject_3.html">Arbeitspaket 3</a></li>
-  <li><a href="/de/subprojects/subproject_4.html">Arbeitspaket 4</a></li>
-  <li><a href="/de/subprojects/subproject_5.html">Arbeitspaket 5</a></li>
+  <li><a href="http://localhost:4000&lt;a href=&quot;de/subprojects/subproject_1.md&quot; &gt;&lt;/a&gt;">Arbeitspaket 1</a></li>
+  <li><a href="http://localhost:4000&lt;a href=&quot;de/subprojects/subproject_2.md&quot; &gt;&lt;/a&gt;">Arbeitspaket 2</a></li>
+  <li><a href="http://localhost:4000&lt;a href=&quot;de/subprojects/subproject_3.md&quot; &gt;&lt;/a&gt;">Arbeitspaket 3</a></li>
+  <li><a href="http://localhost:4000&lt;a href=&quot;de/subprojects/subproject_4.md&quot; &gt;&lt;/a&gt;">Arbeitspaket 4</a></li>
+  <li><a href="http://localhost:4000&lt;a href=&quot;de/subprojects/subproject_5.md&quot; &gt;&lt;/a&gt;">Arbeitspaket 5</a></li>
 </ul>
 
           </li>
           <li>
-            <a href="/de/contact/" >Kontakt</a>
+            <a href="http://localhost:4000<a href="de/contact/index.md" ></a>">Kontakt</a>
           </li>
           <li>
-            <a href="/de/funding/" >Finanzierung</a>
+            <a href="http://localhost:4000<a href="de/funding/index.md" ></a>">Finanzierung</a>
           </li>
         
         
@@ -89,6 +92,8 @@
         
           <h3 id="arbeitspaket-1-inside-plattform">Arbeitspaket 1: INSIDe-Plattform</h3>
 
+<p><img src="http://localhost:4000/assets/img/Abwasser.JPG" alt="title_image" /></p>
+
 <p>In AP1 entwickeln wir die INSIDe-Softwareplattform zur Integration mehrerer mathematischer Modelle, die verschiedene Aspekte des Infektionsgeschehens auf Basis unterschiedlicher Daten modellieren, zu einem komplexen Modell.<br />
 In den letzten Jahren wurden bereits verschiedene Modelle für die Simulation der Ausbreitung von Infektionskrankheiten entwickelt. Diese sind jedoch in ihrer Vorhersagegenauigkeit begrenzt, u.a. aufgrund unzulänglicher Datenbasis, da sie beispielsweise nicht die Integration von Abwasserbeobachtungen ermöglichen. Durch die Kombination verschiedener, auf unterschiedlichen Daten basierender Modelle mit Hilfe der INSIDe-Plattform wollen wir die Vorhersagegenauigkeit der Simulation verbessern. Dies wird in einer einfacheren Bewertung und Vorhersage der Ausbreitung von Infektionskrankheiten resultieren.<br />
 Konkret werden wir die in AP2 entwickelten epidemiologischen Modelle zur Modellierung der Krankheitsübertragung mit den in AP 3 und 4 entwickelten Kanalnetzmodellen zur Modellierung der der Ausbreitung von Viruspartikeln im Abwasser integrieren. Wir werden die Plattform mit umfangreichen Datensätzen aus Untersuchungen der Ausbreitung von SARS-CoV-2 in München,
@@ -98,7 +103,7 @@ Die INSIDe-Plattform wird modular aufgebaut, so dass Modelle ausgetauscht oder e
 <br />
 Zusätzlich zur Simulation wird die INSIDe-Plattform die Ableitung unbekannter Modell-Parameter aus experimentellen Daten ermöglichen, z.B. zur Wirkung von Infektionsschutzmaßnahmen, und Versuchsplanungen unterstützen, z.B. indem die besten Standorte für zusätzliche Abwasserprobenentnahmen identifiziert werden, um die Datenquelle für Parameterschatzungen und Vorhersagen zu verbessern.<br />
 <br />
-Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.\</p>
+Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.</p>
 
         
 
@@ -142,16 +147,16 @@ Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstel
     <li>
       <a href="https://twitter.com/" class="icon">
         <img
-          src="/assets/img/social-twitter.svg"
+          src="http://localhost:4000/assets/img/social-twitter.svg"
           class="SiteFooter-icon"
           alt="Twitter"
         />
       </a>
     </li>
     <li>
-      <a href="https://github.com/inside-consortium" class="icon">
+      <a href="https://github.com/" class="icon">
         <img
-          src="/assets/img/social-github.svg"
+          src="http://localhost:4000/assets/img/social-github.svg"
           class="SiteFooter-icon"
           alt="GitHub"
         />
@@ -162,8 +167,8 @@ Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstel
 <!-- /.footer-links -->
 
 
-<script src="/assets/js/libs/prettify.js"></script>
-<script src="/assets/js/script.js"></script>
+<script src="http://localhost:4000/assets/js/libs/prettify.js"></script>
+<script src="http://localhost:4000/assets/js/script.js"></script>
 
 
 

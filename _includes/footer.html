@@ -1,14 +1,5 @@
 <footer class="SiteFooter">
-  
-    <h1 class="Logo">
-        <a href="/">
-          <img 
-          src="/assets/img/logo_modellierungsnetzwerk.png" 
-          alt="Modellierungsnetzwerk">
-        </a>
-    </h1>
-
-  <div class="SiteFooter-language">
+  <div class="SiteFooter-donation">
     <div class="language-text">
       <em>{{ site.data.translations['language'][page.lang] }}</em>
     </div>
@@ -16,16 +7,40 @@
     <div class="language-text">
       {% for post in posts %}
         <li>
-          <a href="{{ site.base-url }}{{ post.url }}" 
+          <a href="{{ site.baseurl }}{{ post.url }}" 
           class="{{ post.lang }}" 
           title="View in {{post.lang}}">{{ site.data.languages[post.lang].icon }} {{ site.data.languages[post.lang].label }}</a>
         </li>
       {% endfor %}
     </div>
-
     <div class="language-text">
       {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
     </div>
   </div>
-
+  <ul class="SiteFooter-links">
+    <li>
+      <a href="https://twitter.com/" class="icon">
+        <img
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/social-twitter.svg"
+          class="SiteFooter-icon"
+          alt="Twitter"
+        />
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/" class="icon">
+        <img
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/social-github.svg"
+          class="SiteFooter-icon"
+          alt="GitHub"
+        />
+      </a>
+    
+  </ul>
 </footer>
+<!-- /.footer-links -->
+
+
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/libs/prettify.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/assets/js/script.js"></script>
+

@@ -8,6 +8,8 @@ lang-ref: subproj-1
 
 ### Arbeitspaket 1: INSIDe-Plattform
 
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasser.JPG)
+
 In AP1 entwickeln wir die INSIDe-Softwareplattform zur Integration mehrerer mathematischer Modelle, die verschiedene Aspekte des Infektionsgeschehens auf Basis unterschiedlicher Daten modellieren, zu einem komplexen Modell.\\
 In den letzten Jahren wurden bereits verschiedene Modelle für die Simulation der Ausbreitung von Infektionskrankheiten entwickelt. Diese sind jedoch in ihrer Vorhersagegenauigkeit begrenzt, u.a. aufgrund unzulänglicher Datenbasis, da sie beispielsweise nicht die Integration von Abwasserbeobachtungen ermöglichen. Durch die Kombination verschiedener, auf unterschiedlichen Daten basierender Modelle mit Hilfe der INSIDe-Plattform wollen wir die Vorhersagegenauigkeit der Simulation verbessern. Dies wird in einer einfacheren Bewertung und Vorhersage der Ausbreitung von Infektionskrankheiten resultieren.\\
 Konkret werden wir die in AP2 entwickelten epidemiologischen Modelle zur Modellierung der Krankheitsübertragung mit den in AP 3 und 4 entwickelten Kanalnetzmodellen zur Modellierung der der Ausbreitung von Viruspartikeln im Abwasser integrieren. Wir werden die Plattform mit umfangreichen Datensätzen aus Untersuchungen der Ausbreitung von SARS-CoV-2 in München,
@@ -17,4 +19,4 @@ Die INSIDe-Plattform wird modular aufgebaut, so dass Modelle ausgetauscht oder e
 \\
 Zusätzlich zur Simulation wird die INSIDe-Plattform die Ableitung unbekannter Modell-Parameter aus experimentellen Daten ermöglichen, z.B. zur Wirkung von Infektionsschutzmaßnahmen, und Versuchsplanungen unterstützen, z.B. indem die besten Standorte für zusätzliche Abwasserprobenentnahmen identifiziert werden, um die Datenquelle für Parameterschatzungen und Vorhersagen zu verbessern.\\
 \\
-Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.\\
+Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.

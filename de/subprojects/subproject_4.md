@@ -5,7 +5,10 @@ title: Arbeitspaket 4
 lang: de
 lang-ref: subproj-4
 ---
+
 ### Arbeitspaket 4: Grobmaschige Kanalnetzmodelle
+
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasserkanal.jpg)
 
 In AP4 entwickeln wir Ansätzen für die Konstruktion von rechnergestützten Modellen für Kanalisationsnetze von Großstädten zur Überwachung von Infektionskrankheiten.\\
 Viele Krankheitserreger sind im Abwasser nachweisbar, und somit hat sich die Untersuchung von Abwasserproben zur epidemiologischen Verfolgung von Krankheitserregern (wie SARS-CoV-2 als nützliches Instrument erwiesen. Ein großer Vorteil der Abwasseruntersuchung ist, dass sie unabhängig von Test- und Meldestrategien ist und ein Bild des Infektionsgeschehens in der gesamten Bevölkerung liefern kann.\\

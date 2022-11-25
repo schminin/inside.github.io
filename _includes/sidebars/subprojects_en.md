@@ -1,5 +1,5 @@
-* {% link /en/subprojects/subproject_1.html Subproject 1 %}
-* {% link /en/subprojects/subproject_2.html Subproject 2 %}
-* {% link /en/subprojects/subproject_3.html Subproject 3 %}
-* {% link /en/subprojects/subproject_4.html Subproject 4 %}
-* {% link /en/subprojects/subproject_5.html Subproject 5 %}
+* [Subproject 1]({{ site.url }}{{ site.baseurl }}{% link en/subprojects/subproject_1.md %})
+* [Subproject 2]({{ site.url }}{{ site.baseurl }}{% link en/subprojects/subproject_2.md %})
+* [Subproject 3]({{ site.url }}{{ site.baseurl }}{% link en/subprojects/subproject_3.md %})
+* [Subproject 4]({{ site.url }}{{ site.baseurl }}{% link en/subprojects/subproject_4.md %})
+* [Subproject 5]({{ site.url }}{{ site.baseurl }}{% link en/subprojects/subproject_5.md %})

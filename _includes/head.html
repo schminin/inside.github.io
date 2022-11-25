@@ -13,12 +13,12 @@
   <link href="//fonts.googleapis.com/css?family=Roboto+Slab:400,700%7CRoboto:400,700,700italic,400italic" rel="stylesheet" type="text/css">
 
   {% if page.category == 404 %}
-    <link href="/assets/css/404.css" rel="stylesheet">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/css/404.css" rel="stylesheet">
   {% else %}
-    <link href="/assets/css/normalize.css" rel="stylesheet">
-    <link href="/assets/css/main.css" rel="stylesheet">
-    <link href="/assets/css/footer.css" rel="stylesheet">
-    <link href="/assets/css/prettify.css" rel="stylesheet">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/css/normalize.css" rel="stylesheet">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/css/footer.css" rel="stylesheet">
+    <link href="{{ site.url }}{{ site.baseurl }}/assets/css/prettify.css" rel="stylesheet">
   {% endif %}
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
