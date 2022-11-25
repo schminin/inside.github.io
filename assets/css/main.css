@@ -1447,3 +1447,4 @@ Inlined to avoid required HTTP connection: h5bp.com/r
 
 
 img[alt=title_image] { height: 300px; }
+img[alt=partner_logos] { max_height: 150px; }
