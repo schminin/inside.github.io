@@ -1,9 +1,9 @@
 ---
 layout: default
 markdown: 0
-title: Contact Information
+title: Project Partners
 lang: en
-lang-ref: contact-information
+lang-ref: projectpartner
 ---
 
 To get in contact with respective ...
