@@ -24,10 +24,10 @@ Eine von Tests und offiziell gemeldeten Fallzahlen unabhängig Datenquelle stell
 Um dieses Ziel zu erreichen, haben sich Wissenschaftlerinnen und Wissenschaftler der Universität Bonn, des Klinikums der Ludwig-Maximilians-Universität München, der Universität der Bundeswehr, des Deutschen Luft- und Raumfahrtzentrum (DLR) und der Firma Tandler zusammengeschlossen.\\
 \\
 Das Projekt besteht aus fünf Arbeitspaketen:\\
-Arbeitspaket 1: INSIDe-Plattform\\
-Arbeitspaket 2: Epidemiologische Modelle\\
-Arbeitspaket 3: Detaillierte Kanalnetzmodelle\\
-Arbeitspaket 4: Grobmaschige Kanalnetzmodelle\\
-Arbeitspaket 5: Datenerhebung\\
+[Arbeitspaket 1:]({{ site.url }}{{ site.baseurl }}/de/subprojects/subproject_1.html) INSIDe-Plattform\\
+[Arbeitspaket 2:]({{ site.url }}{{ site.baseurl }}/de/subprojects/subproject_2.html) Epidemiologische Modelle\\
+[Arbeitspaket 3:]({{ site.url }}{{ site.baseurl }}/de/subprojects/subproject_3.html) Detaillierte Kanalnetzmodelle\\
+[Arbeitspaket 4:]({{ site.url }}{{ site.baseurl }}/de/subprojects/subproject_4.html) Grobmaschige Kanalnetzmodelle\\
+[Arbeitspaket 5:]({{ site.url }}{{ site.baseurl }}/de/subprojects/subproject_5.html) Datenerhebung\\
 \\
 **Kontakt:** Dr. Christina Fricke, inside@uni-bonn.de
