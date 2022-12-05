@@ -9,7 +9,7 @@ lang-ref: starting-page
 ---
 
 
-## INSIDe - INtegrative Modellierung der Ausbreitung von schweren Infektionskrankheiten
+## INSIDe - Integrative Modellierung der Ausbreitung von schweren Infektionskrankheiten
 (INtegrative modeling of the spread of Serious Infectious Diseases)
 
 ![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Viren.jpg)
