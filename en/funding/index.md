@@ -1,7 +1,7 @@
 ---
 layout: default
 markdown: 0
-title: None
+title: Funding
 lang: en
 lang-ref: funding
 ---

@@ -21,4 +21,4 @@ In addition to simulation, the INSIDe platform will enable the derivation of unk
 \\
 The platform will be developed with open source software tools and standardised interfaces to enable interoperability and use by other researchers.\\
 \\
-**Contact: ** Dr. Christina Fricke, inside@uni-bonn.de
+**Contact:** Dr. Christina Fricke, inside@uni-bonn.de
