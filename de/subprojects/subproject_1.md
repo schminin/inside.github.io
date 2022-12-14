@@ -8,7 +8,7 @@ lang-ref: subproj-1
 
 ### Arbeitspaket 1: INSIDe-Plattform
 
-![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasser.JPG)
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasser.png)
 
 In AP1 entwickeln wir die INSIDe-Softwareplattform zur Integration mehrerer mathematischer Modelle, die verschiedene Aspekte des Infektionsgeschehens auf Basis unterschiedlicher Daten modellieren, zu einem komplexen Modell.\\
 In den letzten Jahren wurden bereits verschiedene Modelle für die Simulation der Ausbreitung von Infektionskrankheiten entwickelt. Diese sind jedoch in ihrer Vorhersagegenauigkeit begrenzt, u.a. aufgrund unzulänglicher Datenbasis, da sie beispielsweise nicht die Integration von Abwasserbeobachtungen ermöglichen. Durch die Kombination verschiedener, auf unterschiedlichen Daten basierender Modelle mit Hilfe der INSIDe-Plattform wollen wir die Vorhersagegenauigkeit der Simulation verbessern. Dies wird in einer einfacheren Bewertung und Vorhersage der Ausbreitung von Infektionskrankheiten resultieren.\\

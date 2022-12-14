@@ -8,7 +8,7 @@ lang-ref: subproj-1
 
 ### Subproject 1: INSIDe-Plattform
 
-![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasser.JPG)
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasser.png)
 
 In SP1, we are developing the INSIDe software platform to integrate several mathematical models that model different aspects of infection events based on different data into one complex model.\\
 In recent years, various models have already been developed for simulating the spread of infectious diseases. However, these are limited in their prediction accuracy. This is among other things due to insufficient data basis, as the models do not allow for the integration of wastewater observations, for example. By combining different models based on different data using the INSIDe platform, we aim to improve the predictive accuracy of the simulation. This will result in a simpler assessment and prediction of the spread of infectious diseases.\\

@@ -5,6 +5,7 @@ title: Aktuelles
 lang: de
 lang-ref: news
 ---
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/News.png)
 
 ### Präsentation des Projekts bei der ICSB 2022
 **INSIDe:** Integrative modeling of the spread of serious infectious diseases\\

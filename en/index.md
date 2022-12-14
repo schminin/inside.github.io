@@ -10,7 +10,7 @@ redirect_from: "/index.html"
 ## INSIDe - Integrative modelling of the spread of serious infectious diseases
 (INtegrative modeling of the spread of Serious Infectious Diseases)
 
-![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Viren.jpg)
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Viren.png)
 
 ### Project goal: 
 Development of a software platform as an early warning system for infection outbreaks of pathogens detectable in wastewater and for simulating the spread of disease under different conditions.

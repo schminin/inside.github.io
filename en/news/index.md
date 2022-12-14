@@ -6,6 +6,8 @@ lang: en
 lang-ref: news
 ---
 
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/News.png)
+
 ### Presentation of the project at ICSB 2022
 **INSIDe:** Integrative modeling of the spread of serious infectious diseases\\
 **PRESENTER:** Vanessa Nakonecnij\\

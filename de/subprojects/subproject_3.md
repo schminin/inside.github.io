@@ -8,7 +8,7 @@ lang-ref: subproj-3
 
 ### Arbeitspaket 3: Detaillierte Kanalnetzmodelle
 
-![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasserkanal.jpg)
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasserkanal.png)
 
 In AP3 entwickeln wir detaillierte rechnergestützte Modelle für Kanalisationsnetze von Stadtteilen zur Überwachung von Infektionskrankheiten. Viele Krankheitserreger sind im Abwasser nachweisbar, und somit hat sich die Untersuchung von Abwasserproben zur epidemiologischen Verfolgung von Krankheitserregern (wie SARS-CoV-2 als nützliches Instrument erwiesen. Ein großer Vorteil der Abwasseruntersuchung ist, dass sie unabhängig von Test- und Meldestrategien ist und ein Bild des Infektionsgeschehens in der gesamten Bevölkerung liefern kann.\\
 

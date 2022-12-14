@@ -8,7 +8,7 @@ lang-ref: subproj-4
 
 ### Subproject 4: Coarse-mesh Sewer Network Models
 
-![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasserkanal.jpg)
+![title_image]({{ site.url }}{{ site.baseurl }}/assets/img/Abwasserkanal.png)
 
 In SP4, we are developing approaches for the construction of computational models for metropolitan sewer networks for infectious disease surveillance.\\
 Many pathogens are detectable in wastewater, and thus the testing of wastewater samples for epidemiological tracking of pathogens (such as SARS-CoV-2 has proven to be a useful tool. A major advantage of wastewater testing is that it is independent of testing and reporting strategies and can provide a picture of the incidence of infection across the population.\\
