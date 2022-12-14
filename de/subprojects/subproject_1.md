@@ -19,4 +19,6 @@ Die INSIDe-Plattform wird modular aufgebaut, so dass Modelle ausgetauscht oder e
 \\
 Zusätzlich zur Simulation wird die INSIDe-Plattform die Ableitung unbekannter Modell-Parameter aus experimentellen Daten ermöglichen, z.B. zur Wirkung von Infektionsschutzmaßnahmen, und Versuchsplanungen unterstützen, z.B. indem die besten Standorte für zusätzliche Abwasserprobenentnahmen identifiziert werden, um die Datenquelle für Parameterschatzungen und Vorhersagen zu verbessern.\\
 \\
-Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.
+Die Plattform wird mit Open-Source-Softwaretools und standardisierte Schnittstellen entwickelt, um Interoperabilität und Nutzung durch andere Wissenschaftlerinnen und Wissenschaftler zu ermöglichen.\\
+\\
+**Kontakt:** Dr. Christina Fricke, inside@uni-bonn.de

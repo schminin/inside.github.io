@@ -17,4 +17,6 @@ Bisher sind detaillierte Modelle für die Ausbreitung von Virusfragmenten im Abw
 Das detaillierte Modell wird uns Erkenntnisse aus Abwasserprobenmessungen auf das Infektionsgeschehen liefern und zudem die Bestimmung der Region erleichtern, in der das Virus am wahrscheinlichsten in das Abwassernetz freigesetzt wurde.\\
 Als Proof-of-Principle für die Konstruktion detaillierter Modelle und die Identifizierung von Teileinzugsgebieten mit erhöhter Virenlast wird der Stadtteil Hasenbergl in München, Deutschland, betrachtet, für welchen wir umfassende Informationen zum Kanalnetz vorliegen haben und experimentelle Daten erheben (AP5).\\
 Das detaillierte Kanalnetzmodell wird mit der INSIDe-Plattform (AP1) verknüpft, um die Übertragungsmodelle (AP2) mit Abwasserbeobachtungen zu verbinden.\\
-Das detaillierte Modell soll auch zur Plausibilisierung und Validierung der in AP4 entwickelten grobkörnigen Modelle verwendet werden. 
+Das detaillierte Modell soll auch zur Plausibilisierung und Validierung der in AP4 entwickelten grobkörnigen Modelle verwendet werden. \\
+\\
+**Kontakt:** Dr. Christian Schaum, christian.schaum@unibw.de
