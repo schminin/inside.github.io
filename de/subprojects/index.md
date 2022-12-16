@@ -10,9 +10,9 @@ lang-ref: subprojects-overview
 
 INSIDe wird eine neue Plattform für die integrative datengesteuerte Analyse der Ausbreitung von Infektionskrankheiten entwickeln. Dazu bringt das Konsortium führende Experten aus den Bereichen mathematische und rechnergestützte Modellierung, Epidemiologie und Erforschung von Infektionskrankheiten zusammen. INSIDe wird die von den Partnern unabhängig voneinander entwickelten Ansätze kombinieren und weiterentwickeln, um eine flexible Integration verschiedener Datenquellen zu ermöglichen, darunter (i) amtliche Fall-, Sterbe-, Impf- und Hospitalisierungsstatistiken, (ii) repräsentative Kohortenstudien und (iii) Abwasserproben. Der Einsatz von Simulationsmodellen mit mehreren Auflösungen und umfassenden Modellen für Beobachtungsprozesse wird eine eingehende Bewertung und die Untersuchung großer Regionen ermöglichen.\\
 \\
-
+&emsp;\\
 ![overview_image]({{ site.url }}{{ site.baseurl }}/assets/img/project_overview_de.png)\\
-
+&emsp;\\
 Die technologische Grundlage von INSIDe sind die drei komplementären, hochmodernen Software-Frameworks pyABC [1], MEmilio [2, 3] und ++SYSTEMS [4], die von der Universität Bonn, dem Deutschen Zentrum für Luft- und Raumfahrt bzw. Tandler entwickelt wurden.\\
 * pyABC ermöglicht die datengetriebene Modellierung von Mehrskalenprozessen. In AP1 wird es um ML-Methoden erweitert, um die sequentielle Aktualisierung von Parameterschätzungen in Längsschnittstudien zu ermöglichen.
 * MEmilio ermöglicht die Simulation der räumlich-zeitlichen Ausbreitung von Infektionskrankheiten. In AP2 wird es um eine Multiresolution-Simulationsfunktionalität erweitert, um die Untersuchung von Prozessen zu erleichtern, die auf verschiedenen Skalen stattfinden, und mit Modellen für den Beobachtungsprozess ausgestattet (AP2).
