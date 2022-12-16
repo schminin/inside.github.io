@@ -4,7 +4,6 @@ markdown: 0
 title: Arbeitspakete
 lang: de
 lang-ref: subprojects-overview
-redirect_to: "/de/subprojects/subproject_1.html"
 ---
 
 ### Überblick
