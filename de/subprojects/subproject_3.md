@@ -18,4 +18,4 @@ Als Proof-of-Principle für die Konstruktion detaillierter Modelle und die Ident
 Das detaillierte Kanalnetzmodell wird mit der INSIDe-Plattform (AP1) verknüpft, um die Übertragungsmodelle (AP2) mit Abwasserbeobachtungen zu verbinden.\\
 Das detaillierte Modell soll auch zur Plausibilisierung und Validierung der in AP4 entwickelten grobkörnigen Modelle verwendet werden. \\
 \\
-**Kontakt:** Dr. Christian Schaum, christian.schaum@unibw.de
+**Kontakt:** Dr. Christian Schaum, Dr. Steffen Krause und Natalie Tomza, swa@unibw.de

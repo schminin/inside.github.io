@@ -18,4 +18,4 @@ As a proof-of-principle for the construction of detailed models and the identifi
 The detailed sewer network model will be linked to the INSIDe platform (SP1) to connect the transmission models (SP2) with wastewater observations.\\
 Furthermore, the detailed model will be used to plausibilise and validate the coarse-grained models developed in WP4. \\
 \\
-**Contact:** Dr. Christian Schaum, christian.schaum@unibw.de
+**Contact:** Dr. Christian Schaum, Dr. Steffen Krause und Natalie Tomza, swa@unibw.de
