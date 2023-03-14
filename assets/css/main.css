@@ -178,7 +178,7 @@ blockquote p {
   z-index: 12;
   width: 100%;
   height: 4em;
-  background: #1f1f1f;
+  background: #564e51;
 }
 
 .page-header .container {
@@ -1047,7 +1047,7 @@ Modify as content requires.
     top: 0;
     left: 0;
     right: 0;
-    background: #1f1f1f;
+    background: #564e51;
     z-index: 12;
   }
 
@@ -1101,7 +1101,7 @@ Modify as content requires.
   }
 
   .main-nav > li > ul a:hover {
-    border-left-color: rgba(42, 100, 42,1); /* Navigation Selection color */
+    border-left-color: rgba(131, 175, 99); /* Navigation Selection color */
   }
 
   .main-nav > li > ul a:before {
