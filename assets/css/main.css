@@ -132,7 +132,7 @@ code.prettyprint {
 
 .btn {
   padding: 0.8em 1.2em;
-  background: #ACC196;
+  background: #6FB458;
   border-radius: 3px;
   color: #fff;
   text-decoration: none;
@@ -263,7 +263,7 @@ Navigation
 }
 
 .main-nav a.active {
-  color: #ACC196;
+  color: #6FB458;
   font-weight: 700;
 }
 
@@ -291,7 +291,7 @@ Navigation
   margin: 0 0 3em;
   padding-top: 4.3em;
   text-align: center;
-  background: #ACC196;
+  background: #6FB458;
 }
 
 .jumbotron h2 {
@@ -372,7 +372,7 @@ Excerpt
   margin: 1.8em 0;
   padding: 0 2em;
   font-size: 1.2em;
-  color: #ACC196;
+  color: #6FB458;
   font-style: italic;
 
 }
@@ -486,7 +486,7 @@ Basic Tools
   margin-top: 0;
   margin-bottom: 2em;
   padding: 4.6em 0 2em;
-  background: #ACC196;
+  background: #6FB458;
   font-size: 1em;
   line-height: 1em;
   color: #fff;
@@ -499,7 +499,7 @@ Basic Tools
   margin-top: 0;
   margin-bottom: 2em;
   padding: 4.6em 0 2em;
-  background: #ACC196;
+  background: #6FB458;
   font-size: 1em;
   line-height: 1em;
   color: #fff;
@@ -570,7 +570,7 @@ Context/Local Nav
 
 .context-nav ul > li .active {
   color: #fff;
-  background: #ACC196;
+  background: #6FB458;
   font-style: italic;
 }
 
@@ -1125,7 +1125,7 @@ Modify as content requires.
     max-width: 1200px;
     margin: 0 auto;
     padding: 2.5em 5em 1.6em 0.6em;
-    background: #ACC196;
+    background: #6FB458;
     background-size: 4em auto;
     box-sizing: border-box;
   }
